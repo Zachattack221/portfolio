@@ -1,3 +1,7 @@
+
+.navbarScroll.navbarDark {
+  background-color: black;
+}
 /* hero background image */
 .bgimage {
   height:100vh;
@@ -5,7 +9,7 @@
   background-size:contain;
   position:relative;
 }
-/* text css above hero image*/
+/*hero image text*/
 .hero_title {
   font-size: 4.5rem;
 }
@@ -20,7 +24,6 @@
   transform: translate(-50%, -50%);
   color: white;
 }
-
 
 /* icon styling */
 .social-icons {
