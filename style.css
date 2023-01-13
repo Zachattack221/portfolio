@@ -1,7 +1,15 @@
+*{
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
 
 .navbarScroll.navbarDark {
   background-color: black;
 }
+.nav-link {
+  color: white;
+  /* text-decoration: none; */
+}
+
 /* hero background image */
 .bgimage {
   height:100vh;
@@ -10,10 +18,10 @@
   position:relative;
 }
 /*hero image text*/
-.hero_title {
+.hero-title {
   font-size: 4.5rem;
 }
-.hero_desc {
+.hero-desc {
   font-size: 2rem;
 }
 .hero-text {
@@ -23,6 +31,10 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+#about {
+  text-align: center;
+  color: black;
 }
 
 /* icon styling */
@@ -41,13 +53,11 @@
 #footer {
   background-color: #808080;
   text-align: center;
+  padding-bottom: 4rem;
 }
 
 /* general spacing for all sections */
 #about, #projects, #resume, #contact {
   margin-top: 4rem;
   padding-top: 4rem;
-}
-#contact {
-  padding-bottom: 4rem;
 }
