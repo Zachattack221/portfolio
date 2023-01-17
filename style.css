@@ -5,9 +5,12 @@
 .navbarScroll.navbarDark {
   background-color: black;
 }
-.nav-link {
+.navbar-nav li a {
   color: white;
-  /* text-decoration: none; */
+  text-decoration: none;
+}
+.navbar a {
+  color: white;
 }
 
 /* hero background image */
@@ -68,7 +71,7 @@
 #footer {
   background-color: #808080;
   text-align: center;text-align: center;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
 }
 
 /* general spacing for all sections */
