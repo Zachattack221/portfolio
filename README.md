@@ -10,7 +10,7 @@ Zach van Dijk's Portfolio
 ## Description
 [Link to live portfolio](https://zachattack221.github.io/portfolio/) \
 [GitHub Repository](https://github.com/Zachattack221/portfolio) \
-This webpage is a digital resource to showcase some of Zach's web development projects, biography info, contact, and updated Resume. 
+This webpage is a digital resource to showcase some of Zach's web development projects, biography info, contact, and an updated Resume. 
 ## Tech Use
 [Bootstrap v5](https://getbootstrap.com/docs/5.0/getting-started/introduction) \
 [FontAwesome 5](https://fontawesome.com)
