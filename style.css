@@ -3,7 +3,7 @@
 }
 
 main {
-  background-color: rgb(0, 0, 0);
+    background: linear-gradient(to bottom, #0b0b0b 0%, #eaeaea 100%);
 }
 
 .navbarScroll.navbarDark {
@@ -82,7 +82,7 @@ color: red;
 
 /* footer styling */
 #footer {
-  background-color: #808080;
+  background-color: #322e2e;
   text-align: center;
   padding-bottom: 1 rem;
 }
