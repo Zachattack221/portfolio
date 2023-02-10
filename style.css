@@ -4,7 +4,7 @@
 }
 
 main {
-    background: linear-gradient(to bottom, #010101 0%, #eaeaea 100%);
+    background: linear-gradient(to bottom, #000000 0%, #ffffff 100%);
 }
 
 .navbarScroll.navbarDark {
@@ -42,7 +42,7 @@ main {
 }
 #about {
   text-align: left;
-  color: white;
+  color: rgb(13, 40, 113);
 }
 #about h1 {
 color: red;
@@ -50,7 +50,6 @@ color: red;
 
 #projects h1 {
   color: red;
-
 }
 
 .card-title {
@@ -83,7 +82,8 @@ color: red;
 
 /* footer styling */
 #footer {
-  background-color: #322e2e;
+  /* background-color: #322e2e; */
+  background: linear-gradient(to bottom, #ffffff 0%, #5c5c5f 100%);
   text-align: center;
   padding-bottom: 1 rem;
 }
