@@ -40,6 +40,11 @@ main {
   transform: translate(-50%, -50%);
   color: white;
 }
+/* TODO: Fix style */
+/* img {
+  border-radius: 50%;
+} */
+
 #about {
   text-align: left;
   color: rgb(13, 40, 113);
